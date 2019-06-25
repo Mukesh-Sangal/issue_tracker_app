@@ -1,0 +1,18 @@
+ h1 {
+   color: #ab9c9c;
+}
+.fa.fa-user,.btn.btn-primary.stretched-link {
+    margin-left: 5px;
+}
+.footer {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+    height: 100px;
+    margin-top: 20px;
+    background-color: cadetblue;
+}
+a.btn.btn-outline-info {
+    margin-right: 10px;
+}
